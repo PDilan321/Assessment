@@ -1,0 +1,15 @@
+C:\Users\Dilan Patel\Desktop\Atmos\bin\Debug\net7.0\Atmos.exe
+C:\Users\Dilan Patel\Desktop\Atmos\bin\Debug\net7.0\Atmos.deps.json
+C:\Users\Dilan Patel\Desktop\Atmos\bin\Debug\net7.0\Atmos.runtimeconfig.json
+C:\Users\Dilan Patel\Desktop\Atmos\bin\Debug\net7.0\Atmos.dll
+C:\Users\Dilan Patel\Desktop\Atmos\bin\Debug\net7.0\Atmos.pdb
+C:\Users\Dilan Patel\Desktop\Atmos\obj\Debug\net7.0\Atmos.csproj.AssemblyReference.cache
+C:\Users\Dilan Patel\Desktop\Atmos\obj\Debug\net7.0\Atmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dilan Patel\Desktop\Atmos\obj\Debug\net7.0\Atmos.AssemblyInfoInputs.cache
+C:\Users\Dilan Patel\Desktop\Atmos\obj\Debug\net7.0\Atmos.AssemblyInfo.cs
+C:\Users\Dilan Patel\Desktop\Atmos\obj\Debug\net7.0\Atmos.csproj.CoreCompileInputs.cache
+C:\Users\Dilan Patel\Desktop\Atmos\obj\Debug\net7.0\Atmos.dll
+C:\Users\Dilan Patel\Desktop\Atmos\obj\Debug\net7.0\refint\Atmos.dll
+C:\Users\Dilan Patel\Desktop\Atmos\obj\Debug\net7.0\Atmos.pdb
+C:\Users\Dilan Patel\Desktop\Atmos\obj\Debug\net7.0\Atmos.genruntimeconfig.cache
+C:\Users\Dilan Patel\Desktop\Atmos\obj\Debug\net7.0\ref\Atmos.dll
